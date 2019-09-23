@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "postgresql://postgres:admin@localhost/blog",
+    "prod_uri":"postgresql://postgres:admin@localhost/blog",
+    "fb_url":"https://facebook.com/codingthunder",
+    "tw_url":"https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "Coding Thunder",
+    "tag_line": "Heaven for programmers",
+
+
+
+
+
+    "gmail-user":"youremail@gmail.com",
+    "gmail-password":"yourpassword",
+    "about_text": "Hi my name is harry and I create programming tutorials and I am a good boy"
+  }
+}
